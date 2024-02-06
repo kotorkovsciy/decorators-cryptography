@@ -15,7 +15,7 @@ classifiers = [
 
 [tool.poetry.dependencies]
 python = "^3.10"
-cryptography = "^41.0.1"
+cryptography = ">=41.0.1,<43.0.0"
 pre-commit = "^3.3.3"
 
 
